@@ -2,3 +2,5 @@
 Demo for Push Notification
 
 Reference: [http://docs.ionic.io/services/push/](http://docs.ionic.io/services/push/) for Ionic 1.
+
+Remarks: Does not support Topic notifications.
